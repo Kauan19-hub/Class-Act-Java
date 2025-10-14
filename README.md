@@ -17,7 +17,7 @@ Clone this repository on any operating system:
 `Powershell`, `CMD`, `Bash`
 
 ###
-```poweshell
+```powershell
 git clone https://github.com/Kauan19-hub/Class-Act-Java.git
 ```
 
