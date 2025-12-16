@@ -18,7 +18,7 @@ Clone this repository on any operating system:
 
 ###
 ```powershell
-git clone https://github.com/Kauan19-hub/Class-Act-Java.git
+git clone https://github.com/kauanvinicius9/Class-Act-Java.git
 ```
 
 ---
